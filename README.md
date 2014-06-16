@@ -7,6 +7,14 @@ Here I am the README file.
 
 I am all about what this website is about. 
 
+
+### Website
+*[fwalsh site](http://fwalsh.github.io)
+
+### Contributing
+See 'CONTRIBUTING.md' for more info
+
+
 =^^=
 
 
